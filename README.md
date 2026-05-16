@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💜 DevDate
+# 💜  DevDate
 ### _Where Developers Connect, Collaborate & Find Their Match_
 
 <img src="./public/favicon.png" width="120" alt="DevDate Logo"/>
